@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Bilal",
+        "Age": 23,
+        "City": "Karachi",
+        "Mark": 87
+    },
+    {
+        "Name": "Ahmad",
+        "Age": 23,
+        "City": "Lahore",
+        "Mark": 85
+    },
+    {
+        "Name": "Waqar",
+        "Age": 24,
+        "City": "Swat",
+        "Mark": 90
+    },
+    {
+        "Name": "Shabir",
+        "Age": 23,
+        "City": "Karachi",
+        "Mark": 87
+    }
+]

@@ -1,0 +1,24 @@
+posts:list[dict] = [
+    {
+        "id":1,
+        "name":"Waqar Ahmad",
+        "age":23,
+        "city":"Karachi",
+        "course":"fastapi"
+    },
+    {
+        "id":2,
+        "name":"Bilal Ahmad",
+        "age":23,
+        "city":"Lahore",
+        "course":"Python"
+    },
+    {
+        "id":3,
+        "name":"Aysha Khan",
+        "age":20,
+        "city":"Peshawar",
+        "course":"AI/ML"
+    },
+
+]
